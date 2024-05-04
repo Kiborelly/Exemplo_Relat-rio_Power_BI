@@ -1,4 +1,5 @@
-
-
 # Exemplo_Relatorio_Power_BI
-![Texto alternativo](Power BI Serviço.png)
+
+<p align="center">
+	<img width="460" height="300" src="src/Power BI Serviço.png">
+</p>
